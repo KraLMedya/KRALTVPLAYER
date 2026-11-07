@@ -1,87 +1,19 @@
 {
-    "003-GOSTERgizle": 
-    {
-      "PLAYBUTON": "TRUE",
-      "PLAYBUTONextra2": "TRU",
-      "ARABESKgizli": "TRU",
-      "SOHBETgizli": "TRU",
-      "ALTALANKOMPLE": "TRU",
-      "KRALTVBUTON": "TRUe",
-      "USTSLOGAN": "TRUE",
-      "KAYANDUYURUgoster": "TRU",
-      "ANASAYACgoster": "TRU",
-      "CANLIYAYIN": "TRU",
-      "GIZLIKRALgoster": "TRU",
-      "GizliLOBIgoster": "TRU",
-      "GIRISWEB": "TRU"     
-},  
-    "003-STREAMURL": 
-    {
-        "KRALFM_asil": "http://46.20.3.205:80/kralfmmp3",
-        "KRALFM": "http://46.20.3.206/;",
-        "KRALFMyedek": "http://kralwmp.radyotvonline.com/;",
-        "EKRAN2SARKIADI": "http://kralwmp.radyotvonline.com/;",
-        "YEDEK_KRALFM": "http://46.20.3.204/;",
-        "YEDEK_KRALPOPRADYO": "http://46.20.3.201/;",
-        "KRALPOPRADYO": "http://46.20.3.201/;"
-}, 
-    "003-linkler":
-      {        
-        "KPR": "http://kralmedya.top/RADYOLAR/KPR.html",
-        "TVlink": "https://kralmedya.github.io/JSONLAR/TVlinkler.json", 
-        "TVLER": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
-        "RADYOLAR": "https://kralmedya.github.io/HTML/tadilat.html",        
-        "LOBITV": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",        
-        "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=933696&boxtag=KraLFM",        
-        "KRALTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
-        "ANASOHBET": "https://www5.cbox.ws/box/?boxid=933696&boxtag=KraLFM",
-        "GIRISKURAL": "https://kralmedya.github.io/HTML/002sohbetkural.html",
-        "GIRISWEB": "https://kralmedya.github.io/HTML/003-girisweb.html",
-        "GIRISWEBbosss": "https://kralmedya.github.io/HTML/003-girisweb-BOS.html",
-        "GIRISWEBxxx": "https://kralmedya.github.io/HTML/003-girisweb.html",
-        "BIRAZOYUN": "https://kralmedya.github.io/HTML/BIRAZOYUN.html"
-},
-    "003-metinler": 
-    {
-        "KAYANDUYURU": "XXX",
-        "USTSLOGAN": "ARABESKİN KRALI",
-        "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
-        "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html" 
-},
-    "003-sayaclar":
-      {
-        "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/003sayac.html",
-        "STREAMSAYAC": "https://kralmedya.github.io/SAYACLAR/003STREAMSAYAC.html"       
-},
-    "003-FOTOLAR": 
-    {
-        "ARKA": "https://kralmedya.github.io/FOTOLAR/kralminiarkaplan2.jpg",
-        "ARKA2": "https://i.pinimg.com/originals/3e/ec/af/3eecafd9b790cbd721b5024da834fc01.gif",
-        "ARKAyedek": "https://i.pinimg.com/originals/b0/10/73/b01073ee5ba725fc48c2e831b9e22a09.gif",
-        "KRALTVGIF": "https://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
-        "KRALTVGIFYEDEK": "https://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
-        "EKRANLOGO": "https://kralmedya.github.io/FOTOLAR/KRALFMgif.gif",
-        "EKRANLOGO-YEDEK-2": "https://kralmedya.github.io/FOTOLAR/ablogo.webp",
-        "EKRANLOGO-YEDEK": "https://kralmedya.github.io/FOTOLAR/KRALMEDYA-TRANS.png",
-        "ARABESK": "https://kralmedya.github.io/HTML/003-ARABESK.html",
-        "SOHBET": "https://www5.cbox.ws/box/?boxid=933696&boxtag=KraLFM"
-}, 
-
-    "003-REKLAMLAR": 
-    {
-        "BANNERANA": "ca-app-pub-3210781577321184/4289841284",
-        "BANNER_EKRAN2": "ca-app-pub-3210781577321184/9207687123",
-        "GECISANA": "ca-app-pub-3210781577321184/5173083087",
-        "YERELANA": "ca-app-pub-3210781577321184/2546919744",
-        "OPENANA": "ca-app-pub-3210781577321184/1233838072"
+  "is_test_mode": true,
+  "enable_app_open_ads": true,
+  "enable_interstitial_ads": true,
+  "enable_native_ads": true,
+  "enable_rewarded_ads": false,
+  "test_ads": {
+    "app_open_ad_id": "ca-app-pub-3940256099942544/9257395921",
+    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_ad_id": "ca-app-pub-3940256099942544/2247696110",
+    "rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "prod_ads": {
+    "app_open_ad_id": "ca-app-pub-XXXXXXXXXXXXXXXX/YYYYYYYYYY",
+    "interstitial_ad_id": "ca-app-pub-XXXXXXXXXXXXXXXX/YYYYYYYYYY",
+    "native_ad_id": "ca-app-pub-XXXXXXXXXXXXXXXX/YYYYYYYYYY",
+    "rewarded_ad_id": "ca-app-pub-XXXXXXXXXXXXXXXX/YYYYYYYYYY"
+  }
 }
-}
-
-
-
-
-
-
-
-
-
