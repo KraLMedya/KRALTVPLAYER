@@ -4,7 +4,7 @@
   "enable_interstitial_ads": true,
   "enable_native_ads": true,
   "enable_rewarded_ads": false,
-  "enable_sample_playlist": true,
+  "enable_sample_playlist": false,
   "test_ads": {
     "app_open_ad_id": "ca-app-pub-3940256099942544/9257395921",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
