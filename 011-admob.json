@@ -1,6 +1,6 @@
 {
   "is_test_mode": true,
-  "tum_reklamlar_aktif": true,
+  "tum_reklamlar_aktif": false,
   "acilis_reklami_aktif": true,
   "gecis_reklami_aktif": true,
   "dogal_reklam_aktif": true,
