@@ -4,8 +4,9 @@
   "enable_interstitial_ads": true,
   "enable_native_ads": true,
   "enable_rewarded_ads": false,
-  "interstitial_click_threshold": 10,
-  "clicks_after_app_open": 10,
+  "arkaplan_donus_sayisi": 3,
+  "gecis_reklam_tiklama_sayisi": 10,
+  "acilis_sonrasi_gecis_tiklama_sayisi": 10,
   "test_ads": {
     "app_open_ad_id": "ca-app-pub-3940256099942544/9257395921",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
