@@ -14,9 +14,9 @@
     "rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917"
   },
   "prod_ads": {
-    "app_open_ad_id": "ca-app-pub-XXXXXXXXXXXXXXXX/YYYYYYYYYY",
-    "interstitial_ad_id": "ca-app-pub-XXXXXXXXXXXXXXXX/YYYYYYYYYY",
-    "native_ad_id": "ca-app-pub-XXXXXXXXXXXXXXXX/YYYYYYYYYY",
-    "rewarded_ad_id": "ca-app-pub-XXXXXXXXXXXXXXXX/YYYYYYYYYY"
+    "app_open_ad_id": "ca-app-pub-3210781577321184/4348520027",
+    "interstitial_ad_id": "ca-app-pub-3210781577321184/9738633411",
+    "native_ad_id": "ca-app-pub-3210781577321184/5438415428",
+    "rewarded_ad_id": "ca-app-pub-3210781577321184/9626952773"
   }
 }
