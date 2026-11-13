@@ -1,5 +1,5 @@
 {
-  "is_test_mode": true,
+  "is_test_mode": false,
   "tum_reklamlar_aktif": true,
   "acilis_reklami_aktif": true,
   "gecis_reklami_aktif": true,
