@@ -5,9 +5,9 @@
   "gecis_reklami_aktif": true,
   "dogal_reklam_aktif": true,
   "odullu_reklam_aktif": false,
-  "arkaplan_donus_sayisi": 3,
-  "gecis_reklam_tiklama_sayisi": 10,
-  "acilis_sonrasi_gecis_tiklama_sayisi": 10,
+  "arkaplan_donus_sayisi": 2,
+  "gecis_reklam_tiklama_sayisi": 20,
+  "acilis_sonrasi_gecis_tiklama_sayisi": 20,
   "test_ads": {
     "app_open_ad_id": "ca-app-pub-3940256099942544/9257395921",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
